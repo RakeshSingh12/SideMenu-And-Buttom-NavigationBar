@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="example.javatpoint.com.kotlinoptionsmenu.MainActivity">
+    <item
+            android:id="@+id/home_search"
+            app:showAsAction="always"
+            android:icon="@drawable/search"
+            android:title="@string/search"/>
+    <item
+            android:id="@+id/home_notify"
+            app:showAsAction="always"
+            android:title="@string/notification"
+            android:icon="@drawable/notification"
+           />
+
+</menu>

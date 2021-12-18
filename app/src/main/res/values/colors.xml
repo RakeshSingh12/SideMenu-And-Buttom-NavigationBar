@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#21B1F3</color>
+    <color name="colorPrimaryDark">#21B1F3</color>
+    <color name="colorAccent">#21B1F3</color>
+    <color name="colorWhite_85">#85ffffff</color>
+
+    // intro slider or walkthrough Slider
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#28515558</color>
+    <color name="dot_light_screen4">#662196F3</color>
+    <array name="array_dot_active">
+
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+    </array>
+
+    <color name="black">#000000</color>
+    <color name="lightGrey">#80000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_black">#B4000000</color>
+    <color name="job_title">#e6282828</color>
+    <color name="company_name">#cc282828</color>
+    <color name="job_details">#99282828</color>
+
+    <color name="indigo">#4765c0</color>
+    <color name="blue">#21B1F3</color>
+
+
+    <color name="app_white">#ffffff</color>
+    <color name="custom_header_title">#212446</color>
+    <color name="ui_default_bg">#f5f6f9</color>
+    <color name="divider">#e0e0e0</color>
+    <color name="forgot_pass_text">#a69e9d9d</color><!--Jobs inflater view color -->
+    <color name="jobs_header_title">#e6212446</color>
+    <color name="jobs_title2_and_desc">#99212446</color>
+    <color name="jobs_title3_and_bottom_text">#cc212446</color>
+    <color name="hint_bg">#99282828</color>
+    <color name="text_bg">#282828</color>
+    <color name="btn_bg">#4765c0</color>
+    <color name="page_title">#282828</color>
+
+    <color name="text_light">#80282828</color>
+
+    <color name="view_color">#14000000</color>
+    <color name="message_background">#ff6464</color>
+    <color name="applied_color">#ff6464</color>
+
+    <color name="profile_green">#5fe7aa</color>
+    <color name="profile_magenta">#ff6aa2 </color>
+    <color name="profile_blue">#128fe6</color>
+    <color name="profile_yellow">#ffc21d </color>
+
+    <color name="dialog_view">#17000000</color>
+    <color name="login_shadow">#272196F3</color>
+    <color name="logout_btn_color">#41000000</color>
+
+    <color name="gray">#808080</color>
+    <color name="white_smoke">#f2f2f2</color>
+    <color name="type_msg_color">#f6f7f9</color>
+    <color name="dark">#a6a6a6</color>
+
+    <color name="tab_selector_color">#f6fcff</color>
+</resources>

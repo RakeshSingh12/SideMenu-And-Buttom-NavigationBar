@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SideMenu</string>
+
+    <!-- job list-->
+    <string name="apply">Apply</string>
+    <string name="applied">Applied</string>
+    <string name="home">Home</string>
+    <string name="map_lable">Partime User</string>
+
+    <!--Home Screen-->
+    <string name="jobs">Jobs</string>
+    <string name="nav_message">Message</string>
+    <string name="nav_jobs">Jobs</string>
+    <string name="nav_workers">Workers</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_setting">Settings</string>
+    <string name="applicatnts_ss">Applicants</string>
+    <string name="description">Description</string>
+    <string name="closed">Closed</string>
+    <string name="search">search</string>
+    <string name="notification">notification</string>
+
+</resources>
